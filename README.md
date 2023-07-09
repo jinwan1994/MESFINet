@@ -4,7 +4,7 @@
 
 ## Overview
 
-![MESFINet](/figs/arch.jpg){width=400px height=300px}
+<img src="/figs/arch.jpg" width="100px">
 
 The architecture of our proposed Multi-Stage Edge-Guided Stereo Feature Interaction Network. 
 
