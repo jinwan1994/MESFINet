@@ -4,7 +4,7 @@
 
 ## Overview
 
-<img src="/figs/arch.jpg" width="650px">
+<img src="/figs/arch.jpg" width="700px">
 
 The architecture of our proposed Multi-Stage Edge-Guided Stereo Feature Interaction Network. 
 
@@ -53,7 +53,7 @@ Citation:
    ```shell
    git clone https://github.com/jinwan1994/MESFINet.git
    ```
-2. All the models (BIX2/4) can be downloaded from [BaiduYun](https://pan.baidu.com/s/19ZbluRQVXKJl8umG9lv_-A)(bjtu), place the models to `./pretrained_model/`. 
+2. All the models (BIX2/4) can be downloaded from [GoogleYun](https://drive.google.com/drive/folders/14v9jSUwdAu_-L-eilulYD3HQChYNFufb?usp=sharing), place the models to `./pretrained_model/`. 
 
 3. Run the following scripts.
 
