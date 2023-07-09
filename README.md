@@ -4,7 +4,7 @@
 
 ## Overview
 
-<img src="/figs/arch.jpg" width="100px">
+<img src="/figs/arch.jpg" width="650px">
 
 The architecture of our proposed Multi-Stage Edge-Guided Stereo Feature Interaction Network. 
 
@@ -75,13 +75,13 @@ Citation:
 
 #### Quantitative Results
 
-![benchmark](/figs/result_1.jpg)
+<img src="/figs/result_1.jpg" width="650px">
 
 Benchmark SR results. Average PSNR/SSIM for scale factor x2 and x4 on four datasets.
 
 #### Visual Results
 
-![visual](/figs/result_2.jpg)
+<img src="/figs/result_2.jpg" width="650px">
 
 Visual comparison for 2x SR on two datasets.
 
