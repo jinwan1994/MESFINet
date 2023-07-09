@@ -4,7 +4,7 @@
 
 ## Overview
 
-![MESFINet](/figs/arch.jpg)
+![MESFINet](/figs/arch.jpg){:width="50%"}
 
 The architecture of our proposed Multi-Stage Edge-Guided Stereo Feature Interaction Network. 
 
