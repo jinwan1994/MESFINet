@@ -1,5 +1,5 @@
 # MESFINet
- Pytorch implementation of "Multi-Stage Edge-Guided Stereo Feature Interaction Network for Stereoscopic Image Super-Resolution"
+ Official Pytorch implementation of "Multi-Stage Edge-Guided Stereo Feature Interaction Network for Stereoscopic Image Super-Resolution"
 [paper](https://ieeexplore.ieee.org/document/10121360).
 
 ## Overview
